@@ -1,0 +1,6 @@
+{
+  "prepare": "npm install",
+  "preview": {
+    "command": "npm run dev"
+  }
+}
