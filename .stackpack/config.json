@@ -1,4 +1,6 @@
 {
+  "name": "Vite",
+  "description": "A Vite + Tailwind CSS + shadcn/ui starter project.",
   "prepare": "npm install",
   "preview": {
     "command": "npm run dev"
